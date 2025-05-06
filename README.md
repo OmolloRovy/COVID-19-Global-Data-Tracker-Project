@@ -54,4 +54,4 @@ While the provided analysis is based on historical data, it's crucial to conside
 * **Public Health Measures:** The public health policies and guidelines in place in Nairobi and Kenya as of May 2025 would play a crucial role in controlling transmission.
 * **Long-Term Impacts:** The long-term health and socio-economic impacts of the pandemic continue to be relevant.
 
-To gain a truly accurate understanding of the current situation in Nairobi, Kenya, analyzing the most recent data from the OWID dataset, specifically focusing on Kenya, is essential. This would provide insights into the current case numbers, vaccination rates, hospitalization trends, and the overall state of the pandemic in the region as of May 2025.
+
