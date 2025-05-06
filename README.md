@@ -1,5 +1,4 @@
-# COVID-19 Data Analysis Report - Nairobi, Kenya (as of May 6, 2025)
-
+# COVID-19 Data Analysis Report - Nairobi, Kenya 
 ## Overview
 
 This Jupyter Notebook (`COVID-19_Analysis_Report.ipynb`) provides a comprehensive analysis of the COVID-19 pandemic using the Our World in Data (OWID) dataset. The report includes data loading, cleaning, exploratory data analysis (EDA), visualization, and key insights.
