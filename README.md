@@ -44,6 +44,3 @@ Based on the analysis of the OWID COVID-19 data up to April 12, 2023, several in
 * **Vaccination Disparities:** As of April 2023, there were notable differences in vaccination coverage across countries, likely influenced by factors like economic status and access to vaccines.
 * **Evolving Trends:** The time series analysis of selected countries (including Kenya) reveals distinct waves of infections and varying trends in cases, deaths, and death rates.
 * **Data Availability:** Hospitalization and ICU data, crucial for understanding the burden on healthcare systems, may not be consistently available across all countries in the dataset.
-
-**Reflections on the Current Context (Nairobi, Kenya - May 6, 2025):**
-
