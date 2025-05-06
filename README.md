@@ -13,7 +13,7 @@ The primary objectives of this project are to:
 * Illustrate the global distribution of total cases and vaccination coverage using interactive choropleth maps.
 * Explore the availability of hospitalization and ICU data.
 * Communicate key insights and observations from the data through a clear and readable narrative.
-* Provide context and reflections on the pandemic's potential evolution, specifically considering Nairobi, Kenya, as of May 6, 2025.
+
 
 ## Tools and Libraries Used
 
