@@ -47,4 +47,3 @@ Based on the analysis of the OWID COVID-19 data up to April 12, 2023, several in
 
 **Reflections on the Current Context (Nairobi, Kenya - May 6, 2025):**
 
-While the provided analysis is based on historical data, it's crucial to consider the significant developments since April 2023. As of May 2025 in Nairobi, Kenya, the situation is likely influenced by:
