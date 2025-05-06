@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides an exploratory data analysis (EDA) of the COVID-19 pandemic using the Our World in Data (OWID) dataset. The analysis includes data loading, cleaning, visualization of key trends (cases, deaths, vaccinations), and a narrative of insights, with a specific consideration for the user's location in Nairobi, Kenya. While the core analysis in the provided notebook is based on historical data (up to April 12, 2023), the reflections and context aim to bridge this with the current date (May 6, 2025) and location.
+This project provides an exploratory data analysis (EDA) of the COVID-19 pandemic using the Our World in Data (OWID) dataset. The analysis includes data loading, cleaning, visualization of key trends (cases, deaths, vaccinations), and a narrative of insights, with a specific consideration for the user's location in Nairobi, Kenya. While the core analysis in the provided notebook is based on historical data (up to April 12, 2023).
 
 ## Project Objectives
 
