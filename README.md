@@ -48,10 +48,3 @@ Based on the analysis of the OWID COVID-19 data up to April 12, 2023, several in
 **Reflections on the Current Context (Nairobi, Kenya - May 6, 2025):**
 
 While the provided analysis is based on historical data, it's crucial to consider the significant developments since April 2023. As of May 2025 in Nairobi, Kenya, the situation is likely influenced by:
-
-* **Vaccination Progress:** Vaccination rates in Kenya would have increased, potentially impacting the severity of new infections and the overall burden on the healthcare system.
-* **Variant Evolution:** New variants of the virus may have emerged and become dominant, with potentially different transmissibility and severity profiles.
-* **Public Health Measures:** The public health policies and guidelines in place in Nairobi and Kenya as of May 2025 would play a crucial role in controlling transmission.
-* **Long-Term Impacts:** The long-term health and socio-economic impacts of the pandemic continue to be relevant.
-
-
